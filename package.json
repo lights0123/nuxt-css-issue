@@ -1,0 +1,15 @@
+{
+  "name": "testy",
+  "version": "1.0.0",
+  "description": "Nuxt CSS Issue",
+  "author": "lights0123",
+  "private": true,
+  "scripts": {
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.4.0"
+  },
+  "devDependencies": {
+  }
+}
